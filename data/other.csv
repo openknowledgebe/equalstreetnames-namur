@@ -151,6 +151,9 @@ Champ-Ha,,,way
 "Chaussée de Nivelles",,,way
 "Chaussée de Perwez",,,way
 "Chaussée de Waterloo",,,way
+"Chemin 10",,,way
+"Chemin 19",,,way
+"Chemin 20",,,way
 "Chemin 21",,,way
 "Chemin 32",,,way
 "Chemin 33",,,way
@@ -158,7 +161,7 @@ Champ-Ha,,,way
 "Chemin Bérenger",,,way
 "Chemin Berlacomine",,,way
 "Chemin Bouillot / GR 126",,,way
-"Chemin Fernand Severin",,,way
+"Chemin Fernand Severin - Chemin 4",,,way
 "Chemin Gribousine",,,way
 "Chemin Jauquet",,,way
 "Chemin Notre-Dame au Bois / GR 126",,,way
@@ -296,10 +299,13 @@ Champ-Ha,,,way
 "Chemin du Saint-Désert",,,way
 "Chemin du Trou au Guy",,,way
 "Chemin du Vieux Port",,,way
+"Chemin i1",,,way
 "Chemin i37",,,way
 "Chemin les Tombes",,,way
 "Chemin militaire",,,way
+"Chemin n°44",,,way
 "Chemin n°6",,,way
+"Chemin n°i3",,,way
 "Chemin vicinal 1",,,way
 "Chemin vicinal 12b",,,way
 "Chemin vicinal 13",,,way
@@ -1614,7 +1620,7 @@ RAVeL,,,way
 "Sentier de Gueugnet - Sentier n°77",,,way
 "Sentier de Saint Hilaire - Sentier n°75",,,way
 "Sentier de Sainte Wivinne",,,way
-"Sentier de Spy",,,way
+"Sentier de Spy - Sentier n°60",,,way
 "Sentier de Spy - Sentier n°74 (Entravé)",,,way
 "Sentier de l'Octroi",,,way
 "Sentier de la Bourgogne",,,way
@@ -1630,11 +1636,11 @@ RAVeL,,,way
 "Sentier du Bois de Ferraire",,,way
 "Sentier du Cornouiller",,,way
 "Sentier du Curé",,,way
-"Sentier du Gué",,,way
+"Sentier du Gué - Sentier 66",,,way
 "Sentier du Moulin",,,way
 "Sentier du Pré de Dhoux",,,way
 "Sentier du Ratintot",,,way
-"Sentier du Ri",,,way
+"Sentier du Ri - Sentier n°i2",,,way
 "Sentier du Ry de Dave",,,way
 "Sentier du Saucy",,,way
 "Sentier i1 (accès limité DNF)",,,way
@@ -1643,6 +1649,7 @@ RAVeL,,,way
 "Sentier i34",,,way
 "Sentier i4",,,way
 "Sentier i50",,,way
+"Sentier i59",,,way
 "Sentier n°64",,,way
 "Sentier vicinal 26",,,way
 "Sentier vicinal 32",,,way
