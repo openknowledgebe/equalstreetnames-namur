@@ -3,6 +3,7 @@ name,gender,wikidata,type
 "Chaussée de Louvain",,Q118958,way
 "Chaussée de Louvain - Chaussée de Namur",,Q118958,way
 "Rue du Pont de Louvain",,Q118958,way
+(Privé),,,way
 "Accès RAVeL",,,way
 "Al'Tchôde Ewe",,,way
 "Allée Campagne du Marronnier",,,way
@@ -1607,6 +1608,7 @@ RAVeL,,,way
 "Sentier 106",,,way
 "Sentier 58",,,way
 "Sentier 59",,,way
+"Sentier 66 selon décision de justice (octobre 2020)",,,way
 "Sentier Adenet le Roi",,,way
 "Sentier Atala",,,way
 "Sentier Chateaubriand",,,way
@@ -1643,6 +1645,8 @@ RAVeL,,,way
 "Sentier du Ry de Dave",,,way
 "Sentier du Saucy",,,way
 "Sentier i1 (accès limité DNF)",,,way
+"Sentier i16",,,way
+"Sentier i2 (Privé)",,,way
 "Sentier i26",,,way
 "Sentier i27",,,way
 "Sentier i34",,,way
@@ -1650,6 +1654,7 @@ RAVeL,,,way
 "Sentier i50",,,way
 "Sentier i59",,,way
 "Sentier n°64",,,way
+"Sentier privé selon décision de justice (octobre 2020)",,,way
 "Sentier vicinal 26",,,way
 "Sentier vicinal 32",,,way
 "Sentier vicinal 42",,,way
