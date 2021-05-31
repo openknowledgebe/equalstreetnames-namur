@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Chaussée de Dinant",wikidata,,Q108247,way
 "Chaussée de Louvain",wikidata,,Q118958,way
 "Chaussée de Louvain - Chaussée de Namur",wikidata,,Q118958,way
+"Pont de France",wikidata,,Q142,way
 "Rue du Pont de Louvain",wikidata,,Q118958,way
 (Privé),,,,way
 "Accès RAVeL",,,,way
@@ -517,7 +518,6 @@ L'Enjambée,,,,way
 "Place du Vierly",,,,way
 "Place l'Ilon",,,,way
 "Plateau du Tram",,,,way
-"Pont de France",,,,way
 "Pont de Wépion",,,,way
 "Pont de l'Évêché",,,,way
 "Pont des Ardennes",,,,way
@@ -620,6 +620,7 @@ RAVeL,,,,way
 "Rue Basse Neuville",,,,way
 "Rue Bel Horizon",,,,way
 "Rue Belle-Vue",,,,way
+"Rue Benjamin Franklin",,,,way
 "Rue Bertrand Janquin",,,,way
 "Rue Betsy Castreman",,,,way
 "Rue Blondeau",,,,way
@@ -866,6 +867,7 @@ RAVeL,,,,way
 "Rue Marcel Lecomte",,,,way
 "Rue Marcel Vandy",,,,way
 "Rue Maria de Dorlodot",,,,way
+"Rue Marie Curie",,,,way
 "Rue Marie Henriette",,,,way
 "Rue Martin Lejeune",,,,way
 "Rue Martine Bourtonbourt",,,,way
